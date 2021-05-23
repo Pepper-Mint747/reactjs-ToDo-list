@@ -1,10 +1,10 @@
-# TO-DO List Appliation
+## TO-DO List Appliation
 
-### [Live Site](https://frenetiks-to-do-list.netlify.app/)
+#### [Live Site](https://frenetiks-to-do-list.netlify.app/)
 
 ![ToDo App](https://ibb.co/xXN09zb)
 
-## Introduction
+### Introduction
 This is the code repository for my first code TO-DO list application
 
 Setup:
