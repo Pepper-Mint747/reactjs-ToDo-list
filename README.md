@@ -2,7 +2,7 @@
 
 ### [Live Site](https://frenetiks-to-do-list.netlify.app/)
 
-![ToDo App](https://1drv.ms/u/s!AsDN-2vvuL1Aj29UVzuGQuZzO177?e=cI4Hfb)
+![ToDo App](https://ibb.co/xXN09zb)
 
 ## Introduction
 This is the code repository for my first code TO-DO list application
